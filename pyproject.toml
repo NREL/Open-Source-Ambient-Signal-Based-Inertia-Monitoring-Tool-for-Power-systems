@@ -7,8 +7,6 @@ authors = [
     "Jin Tan <jin.tan@nrel.gov>"
 ]
 license = "BSD-3-Clause"
-readme = "README.md"
-packages = [{ include = "inertia_estimation" }]
 
 [tool.poetry.dependencies]
 python = "^3.9.15"

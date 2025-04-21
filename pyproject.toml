@@ -1,1 +1,27 @@
+[tool.poetry]
+name = "inertia-estimation"
+version = "0.1.0"
+description = "Ambient-based inertia estimation using frequency and power deviations."
+authors = [
+    "Jiangkai Peng <your.email@example.com>",
+    "Jin Tan <jin.tan@nrel.gov>"
+]
+license = "BSD-3-Clause"
+readme = "README.md"
+packages = [{ include = "inertia_estimation" }]
+
+[tool.poetry.dependencies]
+python = ">=3.8,<3.12"
+pandas = "^2.2.0"
+numpy = "^1.24.0"
+matplotlib = "^3.8.0"
+requests = "^2.31.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0"
+black = "^24.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
 

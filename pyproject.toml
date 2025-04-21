@@ -3,7 +3,7 @@ name = "inertia-estimation"
 version = "0.1.0"
 description = "Ambient-based inertia estimation using frequency and power deviations."
 authors = [
-    "Jiangkai Peng <your.email@example.com>",
+    "Jiangkai Peng",
     "Jin Tan <jin.tan@nrel.gov>"
 ]
 license = "BSD-3-Clause"

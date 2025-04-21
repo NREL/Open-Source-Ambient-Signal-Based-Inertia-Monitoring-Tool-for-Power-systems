@@ -17,10 +17,6 @@ numpy = "^1.24.0"
 matplotlib = "^3.8.0"
 requests = "^2.31.0"
 
-[tool.poetry.group.dev.dependencies]
-pytest = "^8.0"
-black = "^24.0"
-
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"

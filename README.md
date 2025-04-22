@@ -1,8 +1,3 @@
-Authors:
-    Jiangkai Peng, Jin Tan
-    For more information, please contact: jin.tan@nrel.gov
-
-Description:
     This script, developed by NREL, implements an inertia estimation algorithm using a sliding window approach.
     The inertia (H) is estimated based on frequency deviations and active power deviations, utilizing the swing
     equation from power system dynamics. An example application is provided using the WECC 240-bus system,
@@ -13,12 +8,12 @@ Description:
         2020 IEEE/PES Transmission and Distribution Conference and Exposition (T&D), Chicago, IL, USA, 2020, pp. 1-5,
         doi: 10.1109/TD39804.2020.9299666.
 
-Disclaimer: 
+**Disclaimer**: 
     This Opensource inertia estimation tool is developed based on ambient data from simulations of simplified WECC 240-bus system. 
     Application to  real-world power system data requires further modifications and calibrations based on the grid and operating conditions.
     This software is released under the NREL software record: **SWR-25-59**. You may freely use, modify, and distribute this software in accordance with the terms of the license.
 
-NOTICE:
+**NOTICE**:
     Copyright © 2025 Alliance for Sustainable Energy, LLC
     These data were produced by the Alliance for Sustainable Energy, LLC (Contractor) under Contract No. DE-AC36-08GO28308 with
     the U.S. Department of Energy (DOE).

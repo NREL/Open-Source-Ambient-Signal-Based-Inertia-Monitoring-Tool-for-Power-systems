@@ -9,7 +9,7 @@ authors = [
 license = "BSD-3-Clause"
 
 [tool.poetry.dependencies]
-python = "^3.9.15"
+python = "^3.9.13"
 pandas = "^1.5.2"
 numpy = "^1.26.4"
 matplotlib = "^3.6.3"

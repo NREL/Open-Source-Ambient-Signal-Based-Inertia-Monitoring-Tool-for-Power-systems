@@ -12,7 +12,6 @@
     Jiangkai Peng, Jin Tan
     For more information, please contact: jin.tan@nrel.gov
 
-Description:
 **Disclaimer**: 
     This Opensource inertia estimation tool is developed based on ambient data from simulations of simplified WECC 240-bus system. 
     Application to  real-world power system data requires further modifications and calibrations based on the grid and operating conditions.

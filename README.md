@@ -13,16 +13,10 @@ Description:
         2020 IEEE/PES Transmission and Distribution Conference and Exposition (T&D), Chicago, IL, USA, 2020, pp. 1-5,
         doi: 10.1109/TD39804.2020.9299666.
 
-Dependencies:
-    - io (Standard Library): For handling byte streams (useful when reading data from network responses).
-    - pandas: For data manipulation and analysis (e.g., reading CSV files).
-    - requests: For making HTTP requests (e.g., connecting to a PDC server for live data).
-    - numpy: For numerical operations and array handling, including polynomial fitting.
-    - matplotlib: For plotting data and visualizing results.
 Disclaimer: 
     This Opensource inertia estimation tool is developed based on ambient data from simulations of simplified WECC 240-bus system. 
     Application to  real-world power system data requires further modifications and calibrations based on the grid and operating conditions.
-    This software is released under the NREL software record: SWR-25-59. You may freely use, modify, and distribute this software in accordance with the terms of the license.
+    This software is released under the NREL software record: **SWR-25-59**. You may freely use, modify, and distribute this software in accordance with the terms of the license.
 
 NOTICE:
     Copyright © 2025 Alliance for Sustainable Energy, LLC

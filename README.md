@@ -1,20 +1,21 @@
-**Description**: This script, developed by NREL, implements an inertia estimation algorithm using a sliding window approach.
-    The inertia (H) is estimated based on frequency deviations and active power deviations, utilizing the swing
-    equation from power system dynamics. An example application is provided using the WECC 240-bus system.
+# Description
+This script, developed by NREL, implements an inertia estimation algorithm using a sliding window approach.
+The inertia (H) is estimated based on frequency deviations and active power deviations, utilizing the swing
+equation from power system dynamics. An example application is provided using the WECC 240-bus system.
         
-**Authors**:
-    Jiangkai Peng, Jin Tan
-    For more information, please contact: jin.tan@nrel.gov
+# Authors
+Jiangkai Peng, Jin Tan
+For more information, please contact: jin.tan@nrel.gov
 
-**Citing**:
+# Citing
 If you use this tool for research or consulting, please see this [software record](https://www.osti.gov/doecode/biblio/154658) and cite the following in your publication:
 
 ```
 Peng, Jiangkai, and Tan, Jin. Open-Source Ambient-Signal-Based Inertia Monitoring Tool for Power systems [SWR-25-59]. Computer Software. https://github.com/NREL/Open-Source-Ambient-Signal-Based-Inertia-Monitoring-Tool-for-Power-systems. Sequoia Climate Foundation, USDOE. 24 Mar. 2025. Web. doi:10.11578/dc.20250422.4.
 ```
 
-**NOTICE**:
-    Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+# NOTICE
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
     
 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
     
@@ -23,10 +24,10 @@ Peng, Jiangkai, and Tan, Jin. Open-Source Ambient-Signal-Based Inertia Monitorin
 3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
 
 
-**Disclaimer**: 
-    This Opensource inertia estimation tool is developed based on ambient data from simulations of simplified WECC 240-bus system. 
-    Application to  real-world power system data requires further modifications and calibrations based on the grid and operating conditions.
-    This software is released under the NREL software record: **SWR-25-59**. 
+# Disclaimer 
+This Opensource inertia estimation tool is developed based on ambient data from simulations of simplified WECC 240-bus system. 
+Application to  real-world power system data requires further modifications and calibrations based on the grid and operating conditions.
+This software is released under the NREL software record: **SWR-25-59**. 
     
 These data were produced by the Alliance for Sustainable Energy, LLC (Contractor) under Contract No. DE-AC36-08GO28308 with
 the U.S. Department of Energy (DOE).

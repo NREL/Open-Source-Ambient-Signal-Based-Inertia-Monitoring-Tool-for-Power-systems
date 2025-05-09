@@ -6,13 +6,14 @@
     Jiangkai Peng, Jin Tan
     For more information, please contact: jin.tan@nrel.gov
 
-**Disclaimer**: 
-    This Opensource inertia estimation tool is developed based on ambient data from simulations of simplified WECC 240-bus system. 
-    Application to  real-world power system data requires further modifications and calibrations based on the grid and operating conditions.
-    This software is released under the NREL software record: **SWR-25-59**. 
+**Citing**:
+If you use this tool for research or consulting, please see this [software record](https://www.osti.gov/doecode/biblio/154658) and cite the following in your publication:
+
+```
+Peng, Jiangkai, and Tan, Jin. Open-Source Ambient-Signal-Based Inertia Monitoring Tool for Power systems [SWR-25-59]. Computer Software. https://github.com/NREL/Open-Source-Ambient-Signal-Based-Inertia-Monitoring-Tool-for-Power-systems. Sequoia Climate Foundation, USDOE. 24 Mar. 2025. Web. doi:10.11578/dc.20250422.4.
+```
 
 **NOTICE**:
-    Copyright © 2025 Alliance for Sustainable Energy, LLC
     Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
     
 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
@@ -21,16 +22,23 @@
     
 3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
 
-    These data were produced by the Alliance for Sustainable Energy, LLC (Contractor) under Contract No. DE-AC36-08GO28308 with
-    the U.S. Department of Energy (DOE).
-    During the period of commercialization or such other time period specified by the DOE, the Government is granted for itself
-    and others acting on its behalf a nonexclusive, paid-up, irrevocable worldwide license in this data to reproduce, prepare
-    derivative works, and perform publicly and display publicly, by or on behalf of the Government.
-    Subsequent to that period the Government is granted for itself and others acting on its behalf a nonexclusive, paid-up,
-    irrevocable worldwide license in this data to reproduce, prepare derivative works, distribute copies to the public,
-    perform publicly and display publicly, and to permit others to do so.
-    The specific term of the license can be identified by inquiry made to the Contractor or DOE.
-    NEITHER CONTRACTOR, THE UNITED STATES, NOR THE UNITED STATES DEPARTMENT OF ENERGY, NOR ANY OF THEIR EMPLOYEES,
-    MAKES ANY WARRANTY, EXPRESS OR IMPLIED, OR ASSUMES ANY LEGAL LIABILITY OR RESPONSIBILITY FOR THE ACCURACY,
-    COMPLETENESS, OR USEFULNESS OF ANY DATA, APPARATUS, PRODUCT, OR PROCESS DISCLOSED, OR REPRESENTS THAT ITS USE
-    WOULD NOT INFRINGE PRIVATELY OWNED RIGHTS.
+
+**Disclaimer**: 
+    This Opensource inertia estimation tool is developed based on ambient data from simulations of simplified WECC 240-bus system. 
+    Application to  real-world power system data requires further modifications and calibrations based on the grid and operating conditions.
+    This software is released under the NREL software record: **SWR-25-59**. 
+    
+These data were produced by the Alliance for Sustainable Energy, LLC (Contractor) under Contract No. DE-AC36-08GO28308 with
+the U.S. Department of Energy (DOE).
+During the period of commercialization or such other time period specified by the DOE, the Government is granted for itself
+and others acting on its behalf a nonexclusive, paid-up, irrevocable worldwide license in this data to reproduce, prepare
+derivative works, and perform publicly and display publicly, by or on behalf of the Government.
+Subsequent to that period the Government is granted for itself and others acting on its behalf a nonexclusive, paid-up,
+irrevocable worldwide license in this data to reproduce, prepare derivative works, distribute copies to the public,
+perform publicly and display publicly, and to permit others to do so.
+The specific term of the license can be identified by inquiry made to the Contractor or DOE.
+NEITHER CONTRACTOR, THE UNITED STATES, NOR THE UNITED STATES DEPARTMENT OF ENERGY, NOR ANY OF THEIR EMPLOYEES,
+MAKES ANY WARRANTY, EXPRESS OR IMPLIED, OR ASSUMES ANY LEGAL LIABILITY OR RESPONSIBILITY FOR THE ACCURACY,
+COMPLETENESS, OR USEFULNESS OF ANY DATA, APPARATUS, PRODUCT, OR PROCESS DISCLOSED, OR REPRESENTS THAT ITS USE
+WOULD NOT INFRINGE PRIVATELY OWNED RIGHTS.
+
